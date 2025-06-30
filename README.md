@@ -12,8 +12,6 @@ A simple and responsive Todo List web application built using **HTML**, **CSS**,
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <p align="center">
   <img src="images/Screenshot 2025-06-30 192028.png" width="500" alt="Todo App Screenshot 1">
   <br><br>
