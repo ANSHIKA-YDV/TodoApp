@@ -12,9 +12,14 @@ A simple and responsive Todo List web application built using **HTML**, **CSS**,
 
 ## 📸 Screenshots
 
-![Todo App Screenshot](images/Screenshot 2025-06-30 192028.png) <!-- Replace with actual screenshot path -->
+## 📸 Screenshots
 
-![Todo App Screenshot](images/Screenshot 2025-06-30 192100.png) <!-- Replace with actual screenshot path -->
+<p align="center">
+  <img src="images/Screenshot.png" width="500" alt="Todo App Screenshot 1">
+  <br><br>
+  <img src="images/Screenshot 1.png" width="500" alt="Todo App Screenshot 2">
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -22,5 +27,16 @@ A simple and responsive Todo List web application built using **HTML**, **CSS**,
 - **CSS3** – Styling and layout
 - **JavaScript** – Core functionality and interactivity
 
-## 📂 Folder Structure
+
+---
+
+## 📌 How to Use
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/ANSHIKA-YDV/TodoApp.git
+2. **Open index.html in your browser:**
+
+  cd TodoApp
+  open index.html
 
